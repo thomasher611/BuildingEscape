@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/unreal_learning/BuildingEscape2/BuildingEscape/.vscode": true,
+		"D:/unreal_learning/BuildingEscape2/BuildingEscape/Content": true,
+		"D:/unreal_learning/BuildingEscape2/BuildingEscape/DerivedDataCache": true,
+		"D:/unreal_learning/BuildingEscape2/BuildingEscape/Intermediate": true,
+		"D:/unreal_learning/BuildingEscape2/BuildingEscape/Saved": true
+	}
+}
